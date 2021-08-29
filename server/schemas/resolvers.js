@@ -10,8 +10,7 @@ const resolvers = {
           return User.findOne({ 
               _id: context.user._id 
           })
-          //below needed???
-        //   .populate('books');
+        //   .populate('savedBooks');
         }
         throw new AuthenticationError('You need to be logged in!');
       },
