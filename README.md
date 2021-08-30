@@ -3,7 +3,7 @@ MERN app where users can search for books and save a list of thier choice of boo
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ## Description: 
-This is an application that you can use to search for books and save the ones you'd like in a list that can be viewed later.  You can also delete the books in your stored list to keep it up to date. This application uses Node.js, an Express server, Mongoose, Apollo and Graphql. You can install and run on a local server, or use the deployed version.     
+This is an application that you can use to search for books and save the ones you'd like in a list that can be viewed later.  You can also delete the books in your stored list to keep it up to date. This application uses the Google Books API, Node.js, an Express server, Mongoose, Apollo and Graphql. You can install and run on a local server, or use the deployed version.     
 ## Table of Contents: 
 * [Installation](#installation)
 * [Usage](#usage) 
