@@ -11,7 +11,7 @@ This is an application that you can use to search for books and save the ones yo
 * [Contributing](#contributing) 
 * [Questions](#questions) 
 ## Installation: 
-[Click here for deployed app](https://searchandsavegooglebooks.herokuapp.com//)   
+[Click here for deployed app](https://searchandsavegooglebooks.herokuapp.com)   
    
 Or to run locally:
 
