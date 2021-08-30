@@ -25,7 +25,11 @@ Or to run locally:
 ## Usage: 
 The homepage will display a search bar where you can search for a book.  You can search for books, but in order to save them to your personal list you will need to sign up or login, see the links in the nav bar on upper right.  Once logged in, you can click the "Save this Book!" button below any book in the search results to add it to your list of saved books.  To see the books you have saved, click on "See Your Books" on the upper right nav bar.  You can use the "Delete this Book!" button to remove any books from your saved list.  
 
-![Screenshot]()
+![Screenshot](assets\BookSearchScreenshot1.png)
+
+![Screenshot](assets\BookSearchScreenshot2.png)
+
+![Screenshot](assets\BookSearchScreenshot3.png)
 
 
 ## License: 
